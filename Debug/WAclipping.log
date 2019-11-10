@@ -1,0 +1,5 @@
+﻿  WAclipping.cpp
+d:\jsjtxxyl\assignment\waclipping\waclipping\waclipping.cpp(204): warning C4018: “<”: 有符号/无符号不匹配
+d:\jsjtxxyl\assignment\waclipping\waclipping\waclipping.cpp(297): warning C4018: “<”: 有符号/无符号不匹配
+d:\jsjtxxyl\assignment\waclipping\waclipping\waclipping.cpp(380): warning C4326: “main”的返回类型应为“int”而非“void”
+  WAclipping.vcxproj -> D:\jsjtxxyl\assignment\WAclipping\Debug\WAclipping.exe
